@@ -1,6 +1,6 @@
 # Drum Kit
 
-Drum Kit is a simple web game which I coded with Angela Yu in her Complete Full Stack Course on Udemy.
+Drum Kit is a simple web game which I coded with Angela Yu in her Complete Full Stack Bootcamp on Udemy.
 
 ## 💻 Build with
 
